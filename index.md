@@ -21,7 +21,7 @@ Sectors with significant experience:
 * Public sector
 * Crypto
 * Startups
-* Retail
+* Retail and hospitality
 
 # Contact us
 
