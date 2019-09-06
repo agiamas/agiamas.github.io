@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Hero](https://github.com/agiamas/agiamas.github.io/assets/images/london_view.jpg)
+![Hero](https://cdn.pixabay.com/photo/2017/06/05/14/38/london-2374247_1280.jpg)
 
 # Who we are
 
