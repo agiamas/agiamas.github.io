@@ -16,10 +16,11 @@ Mocander ltd is a UK based company specialising in IT consulting. The company wa
 * React Native based mobile apps ( Android, iOS ) 
 
 
-Sectors with significant experience:
+### Sectors with significant experience
 
 * Public sector
-* Crypto
+* MongoDB
+* Crypto 
 * Startups
 * Retail and hospitality
 
