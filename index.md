@@ -6,7 +6,7 @@ layout: default
 
 # Who we are
 
-Mocander ltd is a UK based company specialising in IT consulting. The company was established in 2018 by [Alex Giamas](https://www.linkedin.com/in/giamas/).
+Mocander ltd is a UK based company specialising in IT consulting. The company was [established](https://beta.companieshouse.gov.uk/company/11510355) in 2018 by [Alex Giamas](https://www.linkedin.com/in/giamas/).
 
 With a team of diverse and complementary in-house design and development skills, we can deliver ambitious projects, on time with maximum efficiency.
 
@@ -14,10 +14,16 @@ With a team of diverse and complementary in-house design and development skills,
 
 * Service Design (based on [Gov.uk GDS principles](https://www.gov.uk/service-manual))
 * User experience research (based on [Gov.uk GDS principles](https://www.gov.uk/service-manual))
+
+
+* Software architecture
+* Project management
+
+
 * Web design
 * Full stack web development
 * Mobile application development
-* Project management on the deliverables
+
 
 We will outsource any tasks that we can not fulfill to our network of trusted professionals. 
 The network consists of companies in the UK, [South Eastern](https://www.gov.uk/foreign-travel-advice/greece) and [Eastern](https://www.gov.uk/foreign-travel-advice/ukraine) Europe. 
@@ -27,7 +33,7 @@ We can pick the best supplier depending on client's requirements.
 
 * End to end service development
 * Web development in Ruby, Python
-* React Native based mobile apps ( Android, iOS ) 
+* Mobile application development for Android and iPhone, based on React Native 
 
 
 ### Sectors with significant experience
